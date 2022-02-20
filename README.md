@@ -15,4 +15,4 @@
 ```
 
 # Önizleme:
-![rs4](https://user-images.githubusercontent.com/90040826/151959529-4f137b5e-f23c-4d20-a737-c8670e0589b5.png)
+![db_sqlite](https://user-images.githubusercontent.com/90040826/154837624-9e9b2e4a-c0f1-497e-a6d4-ab7f40c9df3e.png)
